@@ -1,0 +1,8 @@
+# Base URL, endpoint URL, configuration key, broker URL, topic to subscribe to
+https:// <your org >.xmatters.com/api/
+integration/1/functions/
+< Inbound Webhook Configuration id >/triggers?apiKey= <Inbound Webhook Configuration key>
+iot.eclipse.org
+whatever/topic
+
+
